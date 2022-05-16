@@ -1,0 +1,9 @@
+# Site settings
+title: eXiv.ORG
+email: annotify@annotify.app
+description: Peer-reviewed publishing
+twitter_username: annotifyapp
+github_username:  annotifyapp
+
+# Build settings
+markdown: kramdown
