@@ -1,3 +1,3 @@
-eXiv is about the peer-review of pre-prints.
+We can ***Get Smart***, but it'd be better if everyone would [Get Swartzed](http://www.aaronsw.com/)
 
-Of course, EVERYTHING on the internet is basically a pre-print, but eXiv aims to be about review and collaborative writing ... and the collaborative process of a LIVING document [with revision history].
+Instead of just arguing past one another … let’s try to write a coherent essay or paper *together* ... any crybaby can argue; it takes legit intelligence to understand the emotion and articulate an opposing point of view.
